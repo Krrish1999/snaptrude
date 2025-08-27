@@ -22,7 +22,7 @@ export default async function globalSetup() {
 
   const email = process.env.EMAIL;
   const password = process.env.PASSWORD;
-  const loginUrl = process.env.URL || process.env.URL; 
+  const loginUrl = process.env.URL || 'https://app.snaptrude.com/login' ; 
 
   if (!email || !password || !loginUrl) {
     throw new Error('EMAIL, PASSWORD and URL must be set in .env for global-setup');
