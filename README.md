@@ -1,5 +1,5 @@
 # Snaptrude Assigment
-## Auomated 5 test cases evidences 
+## Automated 5 test cases evidences 
 <img width="3018" height="1794" alt="image" src="https://github.com/user-attachments/assets/e4545125-658a-48a6-b328-ef6ff9602038" />
 <img width="3024" height="1666" alt="image" src="https://github.com/user-attachments/assets/f0be119e-e024-4ce9-8b40-21ec71ff3b28" />
 
